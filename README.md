@@ -8,6 +8,7 @@ Build a multiple linear regression model for the prediction of demand for shared
 * [Conclusions](#Conclusions)   
 * [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
